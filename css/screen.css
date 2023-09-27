@@ -816,7 +816,7 @@ input::placeholder {
 .c-password-toggle {
     position: absolute;
     top: .875rem;
-    right: .875 rem;
+    right: .875rem;
 }
 
 .c-password-toggle__symbol--show {
