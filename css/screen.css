@@ -122,6 +122,12 @@ html {
     -moz-osx-font-smoothing: grayscale;
 }
 
+@media (prefers-color-scheme: dark) {
+    html {
+        background-color: var(--global-color-neutral-950);
+    }
+}
+
 /*
     Customize the background color and color to match your design.
 */
